@@ -1,0 +1,52 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pen Set Collection</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Pen Set Collection</h1>
+        <p>Explore our beautiful pen sets (just for fun!)</p>
+    </header>
+
+    <section class="pen-gallery">
+        <div class="pen-card">
+            <img src="images/pen1.jpg" alt="Pen Set 1">
+            <h2>Saniro 10 Color Ball Point Pen</h2>
+            <p>All in one 10 different colored pens.</p>
+        </div>
+
+        <div class="pen-card">
+            <img src="images/pen2.jpg" alt="Pen Set 2">
+            <h2>Happy Panda Pens</h2>
+            <p>Beautiful green and white bodied black and blue ball pens.</p>
+        </div>
+
+        <div class="pen-card">
+            <img src="images/pen3.jpg" alt="Pen Set 3">
+            <h2>Cute Animal Tipped</h2>
+            <p>Bright and fun, for those who love animals!</p>
+        </div>
+
+        <div class="pen-card">
+            <img src="images/pen4.jpg" alt="Pen Set 4">
+            <h2>Minimalist Black And White Pen Set</h2>
+            <p>Cute style with cute vibes.</p>
+        </div>
+
+        <div class="pen-card">
+            <img src="images/pen5.jpg" alt="Pen Set 5">
+            <h2>Fred Pen Set</h2>
+            <p>Different colored pens.</p>
+        </div>
+
+        <div class="pen-card">
+            <img src="images/pen6.jpg" alt="Pen Set 6">
+            <h2>Cute Alchohol Markers</h2>
+            <p>Sleek, stylish, and perfect for every artist's desk.</p>
+        </div>
+    </section>
+</body>
+</html>
